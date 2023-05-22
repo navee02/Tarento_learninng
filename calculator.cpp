@@ -7,5 +7,6 @@ int main()
    b=5;
    cout<<a+b<<endl;
    cout<<a-b<<endl;
+   cout<<a*b<<endl;
 
 }
